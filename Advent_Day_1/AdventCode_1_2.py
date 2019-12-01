@@ -1,7 +1,7 @@
 import math
 
 #Read file
-input_file = open(r'C:\Users\kmudy\Documents\Python Scripts\data\input.txt')
+input_file = open(r'patht to file..')
 mass_s = input_file.readlines()
 
 
