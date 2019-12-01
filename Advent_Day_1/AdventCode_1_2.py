@@ -28,20 +28,4 @@ for i in range(len(mass)):
 print (new_total)
     
     
-         
-
-
-#fuel = 1969
-#fuel_total = 0
-
-#while fuel > 0 :
-        
-#        new_fuel = math.floor(fuel / 3 - 2)
-#        fuel = new_fuel
-#        if(fuel > 0):
-#            fuel_total += fuel 
-#        else:
-#            break
-#        print (fuel)
-        
-#print(fuel_total)
+    
