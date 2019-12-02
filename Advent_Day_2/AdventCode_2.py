@@ -1,6 +1,6 @@
 
 def main():
-    input_file = open(r'C:\Users\kmudy\Documents\Python Scripts\data\input2.txt')
+    input_file = open(r'path to file')
 
     string_list = input_file.read()
     string_array = string_list.split(",")
